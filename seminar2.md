@@ -4,3 +4,5 @@ dlllskg
 dlllskggi
 
 Новая информация из ветки коти
+
+git push
